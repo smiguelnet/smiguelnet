@@ -1,7 +1,7 @@
 Hi 👋 My name is Sergio Miguel
 ==============================
 
-Hands-on Software Architectrure & Developer
+Hands-On Software Architect & Developer
 -------------------------------------------
 
 Versatile Software Architect with +20 years of hands-on experience, passionate about new challenges and crafting innovative solutions. Leveraging a deep understanding of architectural principles to drive the development of robust and scalable software applications.
